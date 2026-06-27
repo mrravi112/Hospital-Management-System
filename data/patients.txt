@@ -1,0 +1,1 @@
+P001,Ravi,21,Male,fever,9738292213,Admitted
