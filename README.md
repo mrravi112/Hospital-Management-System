@@ -17,3 +17,20 @@ A desktop-based Hospital Management System developed in Java to streamline hospi
 • JDBC
 
 📚 Developed as an academic project for learning software development and database integration.
+
+## Screenshots
+
+### Dashboard
+![Dashboard](Dashboard.png)
+
+### Patient Management
+![Patient Management](Patients.png)
+
+### Doctor Management
+![Doctor Management](Doctors.png)
+
+### Appointment Management
+![Appointment Management](Appointments.png)
+
+### Billing Management
+![Billing Management](Billing.png)
